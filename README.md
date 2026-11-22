@@ -19,7 +19,3 @@
 ## **Software Used for GUI**
 
 #### tkinter
-
-## **Source**
-
-#### https://www.kaggle.com/imsparsh/churn-risk-rate-hackerearth-ml?select=train.csv
