@@ -1,0 +1,131 @@
+{
+  "cat": {
+    "gender": [
+      "F",
+      "M",
+      "Unknown"
+    ],
+    "region_category": [
+      "City",
+      "Town",
+      "Unknown",
+      "Village"
+    ],
+    "membership_category": [
+      "Basic Membership",
+      "Gold Membership",
+      "No Membership",
+      "Platinum Membership",
+      "Premium Membership",
+      "Silver Membership"
+    ],
+    "joined_through_referral": [
+      "No",
+      "Unknown",
+      "Yes"
+    ],
+    "preferred_offer_types": [
+      "Credit/Debit Card Offers",
+      "Gift Vouchers/Coupons",
+      "Unknown",
+      "Without Offers"
+    ],
+    "medium_of_operation": [
+      "Both",
+      "Desktop",
+      "Smartphone",
+      "Unknown"
+    ],
+    "internet_option": [
+      "Fiber_Optic",
+      "Mobile_Data",
+      "Wi-Fi"
+    ],
+    "used_special_discount": [
+      "No",
+      "Yes"
+    ],
+    "offer_application_preference": [
+      "No",
+      "Yes"
+    ],
+    "past_complaint": [
+      "No",
+      "Yes"
+    ],
+    "complaint_status": [
+      "No Information Available",
+      "Not Applicable",
+      "Solved",
+      "Solved in Follow-up",
+      "Unsolved"
+    ],
+    "feedback": [
+      "No reason specified",
+      "Poor Customer Service",
+      "Poor Product Quality",
+      "Poor Website",
+      "Products always in Stock",
+      "Quality Customer Care",
+      "Reasonable Price",
+      "Too many ads",
+      "User Friendly Website"
+    ]
+  },
+  "num": {
+    "age": {
+      "min": 10.0,
+      "max": 64.0,
+      "median": 37.0
+    },
+    "days_since_last_login": {
+      "min": 1.0,
+      "max": 26.0,
+      "median": 13.0
+    },
+    "avg_time_spent": {
+      "min": 1.837398812766424,
+      "max": 3235.5785210942604,
+      "median": 173.99
+    },
+    "avg_transaction_value": {
+      "min": 800.46,
+      "max": 99914.05,
+      "median": 27584.53
+    },
+    "avg_frequency_login_days": {
+      "min": 0.009208100119423,
+      "max": 73.06199459430009,
+      "median": 16.0
+    },
+    "points_in_wallet": {
+      "min": 6.432208203730966,
+      "max": 2069.069760814851,
+      "median": 698.42
+    },
+    "tenure_days": {
+      "min": 1.0,
+      "max": 1096.0,
+      "median": 544.0
+    },
+    "visit_hour": {
+      "min": 0.0,
+      "max": 23.0,
+      "median": 12.0
+    }
+  },
+  "mode": {
+    "gender": "F",
+    "region_category": "Town",
+    "membership_category": "Basic Membership",
+    "joined_through_referral": "No",
+    "preferred_offer_types": "Gift Vouchers/Coupons",
+    "medium_of_operation": "Desktop",
+    "internet_option": "Wi-Fi",
+    "used_special_discount": "Yes",
+    "offer_application_preference": "Yes",
+    "past_complaint": "No",
+    "complaint_status": "Not Applicable",
+    "feedback": "Poor Product Quality"
+  }
+}

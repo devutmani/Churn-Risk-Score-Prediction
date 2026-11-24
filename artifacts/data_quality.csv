@@ -1,0 +1,12 @@
+Issue,Rows affected,Share %,Treatment
+Target = -1 (invalid label),1163,3.14,Rows dropped from training
+days_since_last_login = -999,1999,5.4,"Set to NaN, median-imputed, flag added"
+avg_time_spent negative,1719,4.65,"Set to NaN, median-imputed, flag added"
+avg_frequency_login_days = 'Error',3522,9.52,"Set to NaN, median-imputed, flag added"
+avg_frequency_login_days negative,683,1.85,"Set to NaN, median-imputed, flag added"
+points_in_wallet missing,3443,9.31,"Median-imputed, flag added"
+points_in_wallet negative,136,0.37,"Set to NaN, median-imputed, flag added"
+region_category missing,5428,14.67,Category 'Unknown'
+joined_through_referral = '?',5438,14.7,Category 'Unknown'
+medium_of_operation = '?',5393,14.58,Category 'Unknown'
+preferred_offer_types missing,288,0.78,Category 'Unknown'

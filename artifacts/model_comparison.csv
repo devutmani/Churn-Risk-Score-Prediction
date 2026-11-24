@@ -1,0 +1,5 @@
+Model,CV macro-F1,Test accuracy,Test macro-F1,Test weighted-F1
+XGBoost,0.7684,0.7894,0.7784,0.7833
+Random Forest,0.763,0.7702,0.7513,0.7554
+Logistic Regression,0.6779,0.7226,0.676,0.7005
+Majority baseline,0.0901,0.291,0.0902,0.1312
